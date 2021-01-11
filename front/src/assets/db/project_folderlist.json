@@ -1,0 +1,57 @@
+[{
+	"name": "通道1",
+	"id": "1",
+	"num": "23563",
+	"lasttime": "2019-1-30 11:30:30",
+	"values": [{
+			"value":"1",
+			"label":"select A"
+		},
+		{
+			"value":"2",
+			"label":"select B"
+		}
+	]
+}, {
+	"name": "通道2",
+	"id": "2",
+	"num": "23563",
+	"lasttime": "2019-1-30 11:30:30",
+	"values": [{
+			"value":"1",
+			"label":"select A"
+		},
+		{
+			"value":"2",
+			"label":"select B"
+		}
+	]
+}, {
+	"name": "通道3",
+	"id": "3",
+	"num": "23563",
+	"lasttime": "2019-1-30 11:30:30",
+	"values": [{
+			"value":"1",
+			"label":"select A"
+		},
+		{
+			"value":"2",
+			"label":"select B"
+		}
+	]
+}, {
+	"name": "通道4",
+	"id": "4",
+	"num": "23563",
+	"lasttime": "2019-1-30 11:30:30",
+	"values": [{
+			"value":"1",
+			"label":"select A"
+		},
+		{
+			"value":"2",
+			"label":"select B"
+		}
+	]
+}]

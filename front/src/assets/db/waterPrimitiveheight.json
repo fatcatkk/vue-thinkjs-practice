@@ -1,0 +1,8 @@
+{
+	"role": ["admin"],
+	"token": "admin",
+	"introduction": "我是编辑",
+	"name": "Normal Editor",
+	"uid": "001",
+	"water":"30"
+}
