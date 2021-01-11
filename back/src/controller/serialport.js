@@ -43,9 +43,6 @@ module.exports = class extends Base {
     var message = this.post();
     for( let i=0; i < serialport.length; i++){
       if (serialport[i].path == message.portSelect){
-        await serialport[i].open(function(error){
-          console.log('Port Open Status:',serialport[i].isOpen);
-        });
         serialport[i].write(message.sendMessage);
       }
     };
